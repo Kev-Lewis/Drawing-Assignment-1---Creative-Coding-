@@ -1,4 +1,4 @@
-# Drawing Assignment 1 - (Creative-Coding)
+# Drawing Assignment 1 - (Creative Coding)
 -------------------------------------------
 With this project, I set out to create a semi-randomly generated starry sky.
 
