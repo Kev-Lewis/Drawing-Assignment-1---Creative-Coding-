@@ -1,6 +1,7 @@
 # Drawing Assignment 1 - (Creative-Coding)
 With this assignment, I set out to create a semi-randomly generated starry
 sky.
+
 So first, I put a couple of moons out in a row (which are deleted now), in
 order to map a
 center for all of the clusters of the stars.
