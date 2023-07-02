@@ -21,4 +21,5 @@ Finally, I added an arc and put a couple more arcs over it to create a
 moon as a final touch the scene.
 
 Link to project: https://editor.p5js.org/Kevin-Lewis-13/sketches/elMzo6jFoP
+
 Portfolio Link: https://kevinlewis.net/other-projects/drawing-creative-coding
